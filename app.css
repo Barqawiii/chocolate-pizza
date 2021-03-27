@@ -1,6 +1,6 @@
 html { background-color:gray; } 
 body {
-    min-height: 2100px;
+    min-height: auto;
     max-width: 1000px;
     background-color:white; 
     margin: 0 auto; 
@@ -228,4 +228,4 @@ h5{
   footer p{
       color: darkgrey;
   }
-  
+  /* Barqawi is simply Awesome ! :D */
